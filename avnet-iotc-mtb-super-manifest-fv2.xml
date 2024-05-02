@@ -1,12 +1,12 @@
 <super-manifest version="2.0">
   <app-manifest-list>
     <app-manifest>
-      <uri>https://github.com/avnet-iotconnect/avnet-iotc-mtb-ce-manifest/raw/main/avnet-iotc-mtb-ce-manifest-fv2.xml</uri>
+      <uri>https://raw.githubusercontent.com/avnet-iotconnect/avnet-iotc-mtb-ce-manifest/protocol-2.1/avnet-iotc-mtb-ce-manifest-fv2.xml</uri>
     </app-manifest>
   </app-manifest-list>
   <middleware-manifest-list>
     <middleware-manifest>
-      <uri>https://github.com/avnet-iotconnect/avnet-iotc-mtb-mw-manifest/raw/main/avnet-iotc-mtb-mw-manifest-fv2.xml</uri>
+      <uri>https://github.com/avnet-iotconnect/avnet-iotc-mtb-mw-manifest/raw/protocol-2.1/avnet-iotc-mtb-mw-manifest-fv2.xml</uri>
     </middleware-manifest>
   </middleware-manifest-list>
 </super-manifest>
